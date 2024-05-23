@@ -1,4 +1,4 @@
-#Cancellation Trend
+# Cancellation Trend
 
 To analyze the cancellation trend, I will calculate the total number of flights and the number of cancelled flights per month throughout the year 2009. 
 This will help us understand how cancellations varied month by month.
