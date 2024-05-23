@@ -4,4 +4,4 @@ The dataset contains various flight-related details such as date, carrier inform
 
 ## Here is the bar graph showing the comparison between actual flights and cancelled flights per month in 2009:
 
-Project-1/actualvscancel.png
+!(https://github.com/nurulhuda09/Project-1/blob/master/actualvscancel.png)
