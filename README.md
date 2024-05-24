@@ -11,3 +11,12 @@ The dataset contains various flight-related details such as date, carrier inform
 - The graph highlights the months with higher cancellation rates, particularly January and December, which aligns with the earlier analysis.
 - The number of actual flights remains relatively consistent across most months, with a notable peak in September.
 - This visualization provides a clear view of how cancellations fluctuated throughout the year in relation to the total flights operated.
+
+### Here is the graph showing the comparison between average actual flight time and average delay time per month in 2009:
+
+![testing](https://github.com/nurulhuda09/Project-1/blob/master/actualvsdelay.png)
+
+### Observations:
+
+- The average actual flight time remains relatively consistent across the months, indicating stable flight durations.
+- The average delay time varies more significantly, with peaks in the summer months and around the holiday season in December.
